@@ -24,3 +24,6 @@ function App() {
   );
 }
 ```
+
+## Warning
+For the correct functioning of the component, ensure your viewport has no padding or margin.

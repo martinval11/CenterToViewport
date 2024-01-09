@@ -1,6 +1,6 @@
 {
   "name": "centertoviewport",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A React Component to center anything in the middle of the viewport",
   "main": "CenterToViewport.tsx",
   "directories": {
