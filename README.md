@@ -11,15 +11,14 @@ npm install centertoviewport
 ```
 
 And wrap your code with the `CenterToViewport` component:
+
 ```js
 import { CenterToViewport } from 'centertoviewport';
 
 function App() {
   return (
     <CenterToViewport>
-      <div>
-        <h1>This is centered</h1>
-      </div>
+      <h1>This is centered</h1>
     </CenterToViewport>
   );
 }
@@ -28,4 +27,5 @@ export default App;
 ```
 
 ## Warning
+
 For the correct functioning of the component, ensure your viewport has no padding or margin.
