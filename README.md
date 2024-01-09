@@ -10,6 +10,7 @@ First, install it using `npm`:
 npm install centertoviewport
 ```
 
+And wrap your code with the `CenterToViewport` component:
 ```js
 import { CenterToViewport } from 'centertoviewport';
 
