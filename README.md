@@ -7,11 +7,11 @@ A JavaScript library for centering an element to the viewport.
 First, install it using `npm`:
 
 ```sh
-npm install ctv
+npm install centertoviewport
 ```
 
 ```js
-import { CenterToViewport } from 'ctv';
+import { CenterToViewport } from 'centertoviewport';
 
 function App() {
   return (

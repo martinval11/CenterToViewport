@@ -1,0 +1,31 @@
+{
+  "name": "centertoviewport",
+  "version": "1.0.0",
+  "description": "A React Component to center anything in the middle of the viewport",
+  "main": "CenterToViewport.tsx",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinval11/CenterToViewport.git"
+  },
+  "keywords": [
+    "center",
+    "centerToViewport",
+    "center",
+    "to",
+    "viewport",
+    "viewport",
+    "centered"
+  ],
+  "author": "martínval11",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinval11/CenterToViewport/issues"
+  },
+  "homepage": "https://github.com/martinval11/CenterToViewport#readme"
+}
