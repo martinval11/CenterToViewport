@@ -23,6 +23,8 @@ function App() {
     </CenterToViewport>
   );
 }
+
+export default App;
 ```
 
 ## Warning
