@@ -1,6 +1,6 @@
 # CenterToViewport
 
-A JavaScript library for centering an element to the viewport.
+A React Component to center anything in the middle of the viewport
 
 ## How to use it?
 
