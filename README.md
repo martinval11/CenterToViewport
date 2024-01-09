@@ -1,4 +1,4 @@
-# CenterToViewport
+# Center To Viewport
 
 A React Component to center anything in the middle of the viewport
 
